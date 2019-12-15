@@ -2,13 +2,16 @@
 Just a website to share and edit cool beans
  yeah baby, yeah!
  1. my email is **lucasdiasgabriel@outlook.com**
- 2. i really enjoy potatoes in ANY form. saute, fried, coocked, mashed, in strips or in chips. i just enojy potatoes very much.
+ 2. i **really enjoy potatoes in ANY form**. saute, fried, coocked, mashed, in strips or in chips. i just enojy potatoes very much.
 
 
 But I have to admit, tasks lists are my favorite:
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
+
+this is my profile picture. this is why i plan on losing weight.
+![alt text](https://github.com/lucasdiasgabriel1987/coolbeans/blob/master/ugly-pig-largethumb6419884.jpg "Title") 
 
 
 # This is an h1 <h1> tag
