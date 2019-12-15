@@ -9,3 +9,17 @@ But I have to admit, tasks lists are my favorite:
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+
+
+**BOLD bold bold** *italic word just like that, real simple*
+---
+##H2 TEXT MUCH COOL VERY AWESOME
+
+-list bullet 1
+- list bullet 2
+- list buller 3
