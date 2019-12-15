@@ -10,15 +10,15 @@ But I have to admit, tasks lists are my favorite:
 - [ ] This is an incomplete item
 
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is an h1 <h1> tag
+## This is an h2 <h2> tag
+###### This is an h6 <h6> tag
 
 
 
 **BOLD bold bold** *italic word just like that, real simple*
 ---
-##H2 TEXT MUCH COOL VERY AWESOME
+## H2 TEXT MUCH COOL VERY AWESOME
 
 -list bullet 1
 - list bullet 2
