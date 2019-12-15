@@ -11,7 +11,7 @@ But I have to admit, tasks lists are my favorite:
 - [ ] This is an incomplete item
 
 this is my profile picture. this is why i plan on losing weight.
-![alt text](/blob/master/220px-Woody-wet-blanket-policy.jpg "Title") 
+![alt text](/blob/master/220px-Woody-wet-blanket-policy.jpg?raw=true "Title") 
 
 
 # This is an h1 <h1> tag
