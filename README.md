@@ -1,7 +1,8 @@
 # coolbeans
 Just a website to share and edit cool beans
  yeah baby, yeah!
-![Image of Yaktocat](https://github.com/lucasdiasgabriel1987/coolbeans/blob/master/benoc3aet-peeters-c2a9-f-s-sto.jpg)
+ 1. my email is **lucasdiasgabriel@outlook.com**
+ 2. i really enjoy potatoes in ANY form. saute, fried, coocked, mashed, in strips or in chips. i just enojy potatoes very much.
 
 
 But I have to admit, tasks lists are my favorite:
